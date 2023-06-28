@@ -1,0 +1,6 @@
+# what files to ignore
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.class
+CMAPPS/
