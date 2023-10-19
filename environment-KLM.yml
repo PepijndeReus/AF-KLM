@@ -1,7 +1,9 @@
 name: KLM
+
 channels:
 - defaults
 - conda-forge
+
 dependencies:
 - jupyter=1.0.0
 - matplotlib=3.5.1
